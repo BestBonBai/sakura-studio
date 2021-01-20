@@ -57,7 +57,7 @@ bg:
   - https://cdn.jsdelivr.net/gh/bestbonbai/bai_cdn@master/img/cover/(8).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
-bgclass: filter-dim
+bgclass: filter-dot
 
 # startdash url, title, desc img
 startdash:

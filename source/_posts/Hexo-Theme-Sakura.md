@@ -13,7 +13,7 @@ tags:
  - hexo
 keywords: Sakura
 description: hexo-sakura主题使用教程
-photos: https://cdn.jsdelivr.net/gh/bestbonbai/bai_cdn@master/img/cover/(3).jpg.webp
+photos: https://cdn.jsdelivr.net/gh/bestbonbai/bai_cdn@master/img/banner/about.jpg
 ---
 hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-sakura/blob/master/README.md)
 

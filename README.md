@@ -6,7 +6,7 @@
 ## To do list:
 - [x] try using Travis CI to publish Hexo blog to Github Automatically
 - [x] set github pages
-- [x] use new tech called `workflow` to  `GitHub Actions` to deploy `Github Pages` instead of `Travis CI`. 
+- [x] use new tech called `workflow` to  `GitHub Actions` to deploy `Github Pages` instead of `Travis CI`.
 
 ## method
 
