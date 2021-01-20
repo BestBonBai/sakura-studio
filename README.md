@@ -10,9 +10,13 @@
 
 ## method
 
+### pre. click `Actions` of your repository, then create a `.github/workflows/pages.yml' file
+
 ### 1. add `.github/workflows/pages.yml` file to your repo with the following content:
 ```yml
-.github/workflows/pages.yml
+.github/workflows/pages.yml # don't need this line
+
+
 name: Pages
 
 on:
